@@ -31,16 +31,6 @@
 
 </div>
 
-#  🙋 Hello
 
-<table>
-  
-<tr><td>
 
-### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;嗨，你好，我是XiaoA同学。热爱编程、球类\、唱歌、旅行。</p>
-
-</td></tr>
